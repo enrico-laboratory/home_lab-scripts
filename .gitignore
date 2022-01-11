@@ -1,0 +1,9 @@
+/.idea/
+/.venv/
+/backup/rdiff_test/
+/rdiff_test_backup/
+/pybackup.iml
+/backup/backup_dict.py
+/backup/backup.iml
+/backup/backup/backup_dict.py
+/backup/rdiff_test_backup/
